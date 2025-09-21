@@ -25,6 +25,7 @@ A desktop application designed to help users stay focused and motivated during w
 2. 
 ```bash
 cd Workout-Timer-AI-Motivation
+
 3.
 ```bash
 npm install
@@ -49,4 +50,5 @@ The app integrates Granite AI to generate motivational messages. Key points:
 2. Encourages consistency and focus
 3. Supports both predefined messages and AI-generated dynamic messages
 4. Provides personalized encouragement to keep users motivated
+
 
