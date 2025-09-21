@@ -23,24 +23,24 @@ A desktop application designed to help users stay focused and motivated during w
    ```bash
    git clone https://github.com/luckstors/Workout-Timer-AI-Motivation.git
 2. 
-   ```bash cd Workout-Timer-AI-Motivation
-3.
    ```bash
-npm install
+   cd Workout-Timer-AI-Motivation
+3.
+   ```bash 
+   npm install
 4.
-```bash
-npm start
+   ```bash 
+   npm start
 5.
-```bash
-npm run build
+   ```bash 
+   npm run build
 6.
-```bash
-npm run electron:build
+   ```bash 
+   npm run electron:build
 
-7. (optional)
-```bash
-npm run dev
-
+7. optional
+   ```bash 
+   npm run dev
 
 ## AI Support
 The app integrates Granite AI to generate motivational messages. Key points:
@@ -48,6 +48,7 @@ The app integrates Granite AI to generate motivational messages. Key points:
 2. Encourages consistency and focus
 3. Supports both predefined messages and AI-generated dynamic messages
 4. Provides personalized encouragement to keep users motivated
+
 
 
 
